@@ -2,7 +2,7 @@
 kullanıcıların  karşılarına çıkan sporcu bilgilerine karşın doğru şıkkı bulmaya çalıştıkları sporcu tahmin oyunu
 
 ## 🏁 Giriş Sayfası
-![Uygulama Ekran Görüntüsü](ekran_görüntüleri/Ekran_görüntüsü 2025-06-18 134259.png)
+![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 134259.png)
 
 ## 🏁 Kayıt Sayfası
 ![Uygulama Ekran Görüntüsü](ekran_görüntüleri/Ekran_görüntüsü2025-06-18 134315.png)
