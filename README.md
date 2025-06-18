@@ -1,24 +1,24 @@
 # sporcu_tahmin_oyunu
 kullanıcıların  karşılarına çıkan sporcu bilgilerine karşın doğru şıkkı bulmaya çalıştıkları sporcu tahmin oyunu
 
-## 🏀 Spor Seçim Sayfası
+## 🏁 Giriş Sayfası
 ![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 134259.png)
 
-## 🏁 Giriş Sayfası
+## 🏁 Kayıt Sayfası
 ![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 134315.png)
 
-## ⚽ Futbol Sayfası
+## 🏀 Spor Seçim Sayfası
 ![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 135122.png)
 
-## 🏀 Basketbol Sayfası
+## ⚽ Futbol Sayfası
 ![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 135136.png)
 
-## 🏐 Voleybol Sayfası
+## 🏆 Puan Sayfası 1
 ![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 135225.png)
 
-## 🏆 Puan Sayfası 1
+## 🏐 Voleybol Sayfası
 ![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 135703.png)
 
-## 🏆 Puan Sayfası 2
+## 🏀 Basketbol Sayfası
 ![Uygulama Ekran Görüntüsü](ekran görüntüleri/Ekran görüntüsü 2025-06-18 135715.png)
 
